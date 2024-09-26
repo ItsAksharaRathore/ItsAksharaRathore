@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!+I'm+Akshara+Rathore;AI+and+Data+Science+Enthusiast;Full-Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-![Intro GIF](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)
+<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="Intro GIF" width="500" height="auto">
+
 
 ---
 
