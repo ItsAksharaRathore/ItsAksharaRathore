@@ -116,7 +116,10 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 
 - **Smart India Hackathon** – Shortlisted for national round, working on navigation enhancement for railway station facilities.
 - **Front-End Developer** – Built multiple web projects using React, Tailwind CSS, and modern frameworks. -->
+## 🏆 Achievements:
 
+- **Smart India Hackathon :** Shortlisted for National Round 1
+- Awarded with Student of the Year award **(trophy)** by LIC and **Shield** for securing 90%+ in academics
 
 ## 📈 GitHub Stats
 
