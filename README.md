@@ -13,7 +13,6 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 
 - 🚀 I aim to contribute to **open source** projects and pursue research in AI & Data Science
 - 💬 I have expertise in **Full Stack Development, AI, and Data Science**
-<!-- - 🔭 I’m currently working on **Smart India Hackathon project** -->
 - 🌱 I am eager to learn **AR/VR technologies**
 
 ---
@@ -47,9 +46,9 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 ---
 
 ## 🚀 Projects
-
-<table style="width:100%; border-spacing: 20px 20px;">
-  <tr>
+<div align="center">
+<table style="width:100%; border-spacing: 20px 20px;" align="center">
+  <tr align="center">
     <td align="center" style="padding: 20px;">
       <img src="https://via.placeholder.com/200" alt="Amazon Clone" width="200" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>Amazon Clone</h3>
@@ -92,12 +91,14 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
       <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
         <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
       </a>
-      <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      <!-- <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge"> -->
       </a>
     </td>
   </tr>
 </table>
+</div>
+
 
 ---
 
@@ -127,4 +128,3 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/itsAksharaRathore) or [Email](mailto:itsAksharaRathore@gmail.com)!
 ```
-
