@@ -51,7 +51,7 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 <table style="width:100%; border-spacing: 20px 20px;" align="center">
   <tr align="center">
     <td align="center" style="padding: 20px;">
-      <img src="https://via.placeholder.com/200" alt="Amazon Clone" width="200" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <img src="files/amazon.png" alt="Amazon Clone" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>Amazon Clone</h3>
       <p><b>Technologies:</b> HTML, CSS, JavaScript</p>
       <a href="https://github.com/ItsAksharaRathore/Amazon-Web-Clone" target="_blank">
@@ -62,7 +62,7 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
       </a>
     </td>
     <td align="center" style="padding: 20px;">
-      <img src="https://via.placeholder.com/200" alt="Netflix Clone" width="200" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <img src="files/Netflix.png" alt="Netflix Clone" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>Netflix Clone</h3>
       <p><b>Technologies:</b> HTML, Tailwind CSS, JavaScript</p>
       <a href="https://github.com/ItsAksharaRathore/Netflix_Clone" target="_blank">
@@ -86,7 +86,7 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
       </a> -->
     </td>
     <td align="center" style="padding: 20px;">
-      <img src="https://via.placeholder.com/200" alt="To-Do List" width="200" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <img src="files/todo.png" alt="To-Do List" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>To-Do List Management</h3>
       <p><b>Technologies:</b> C++, Data Structures</p>
       <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
