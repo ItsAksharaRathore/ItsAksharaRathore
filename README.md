@@ -96,6 +96,49 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
         <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge"> -->
       </a>
     </td>
+    
+  </tr>
+
+
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="files/Report.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Student-Database-Management-System</h3>
+      <p><b>Technologies:</b> Technologies: C++, Vectors, Linked Lists, File I/O</p>
+      <a href="https://github.com/ItsAksharaRathore/Student-Database-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      </a> -->
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="files/Tic-Tac-Toe.png" alt="To-Do List" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Tic-Tac-Toe</h3>
+      <p><b>Technologies:</b>Python, basic data structures</p>
+      <a href="https://github.com/ItsAksharaRathore/Tic_Tac_Toe" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge"> -->
+      </a>
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="files/phone.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Phone-Directory-Management-System</h3>
+      <p><b>Technologies:</b> Technologies: C++, Linked Lists, File I/O</p>
+      <a href="https://github.com/ItsAksharaRathore/Phone-Directory-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      </a> -->
+    </td>
+    
+    
   </tr>
 </table>
 </div>
