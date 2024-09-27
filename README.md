@@ -129,7 +129,7 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
     <td align="center" style="padding: 20px;">
       <img src="files/phone.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>Phone-Directory-Management-System</h3>
-      <p><b>Technologies:</b> Technologies: C++, Linked Lists, File I/O</p>
+      <p><b>Technologies:</b> Technologies: C++, Linked Lists, File I/O, CSV</p>
       <a href="https://github.com/ItsAksharaRathore/Phone-Directory-Management-System" target="_blank">
         <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
       </a>
