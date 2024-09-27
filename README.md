@@ -75,7 +75,7 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://via.placeholder.com/200" alt="Student Grades Management" width="200" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <img src="files/grades.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>Student Grades Management</h3>
       <p><b>Technologies:</b> Python, CSV</p>
       <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
