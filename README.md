@@ -34,15 +34,23 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-000000?style=for-the-badge) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B8BBE?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge)
+
+
 
 ---
 
@@ -50,15 +58,40 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
 <div align="center">
 <table style="width:100%; border-spacing: 20px 20px;" align="center">
   <tr align="center">
-    <td align="center" style="padding: 20px;">
-      <img src="files/amazon.png" alt="Amazon Clone" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-      <h3>Amazon Clone</h3>
-      <p><b>Technologies:</b> HTML, CSS, JavaScript</p>
-      <a href="https://github.com/ItsAksharaRathore/Amazon-Web-Clone" target="_blank">
+  <td align="center" style="padding: 20px;">
+      <img src="files/face.png" alt="Face-Recognize-Attendance-System" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Face-Recognize-Attendance-System</h3>
+      <p><b>Technologies:</b> HTML, CSS, JavaScript, Python, Flask, OpenCV, scikit-learn, SQLite</p>
+      <a href="https://github.com/ItsAksharaRathore/Face-Recognize-Attendance-System" target="_blank">
         <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
       </a>
-      <a href="https://itsakshararathore.github.io/Amazon-Web-Clone/" target="_blank">
+      <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      </a> -->
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="files/blog.png" alt="Blog-Post" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Blog-Post</h3>
+      <p><b>Technologies:</b> Python, Flask, Jinja2, Bootstrap, CSS, HTML, SQLite</p>
+      <a href="https://github.com/ItsAksharaRathore/Blog-Post" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      </a> -->
+    </td>
+  
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="files/myntra.png" alt="Myntra-Clone" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Myntra-Clone</h3>
+      <p><b>Technologies:</b> React, HTML, CSS</p>
+      <a href="https://github.com/ItsAksharaRathore/Myntra-Clone" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge"> -->
       </a>
     </td>
     <td align="center" style="padding: 20px;">
@@ -72,6 +105,31 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
         <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
       </a>
     </td>
+    
+  </tr>
+  <tr>
+  <td align="center" style="padding: 20px;">
+      <img src="files/amazon.png" alt="Amazon Clone" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Amazon Clone</h3>
+      <p><b>Technologies:</b> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/ItsAksharaRathore/Amazon-Web-Clone" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <a href="https://itsakshararathore.github.io/Amazon-Web-Clone/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="files/Report.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>Student-Database-Management-System</h3>
+      <p><b>Technologies:</b> C++, Vectors, Linked Lists, File I/O</p>
+      <a href="https://github.com/ItsAksharaRathore/Student-Database-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+      </a> -->
+    </td>
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
@@ -79,33 +137,6 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
       <h3>Student Grades Management</h3>
       <p><b>Technologies:</b> Python, CSV</p>
       <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
-      </a>
-      <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
-      </a> -->
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="files/todo.png" alt="To-Do List" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-      <h3>To-Do List Management</h3>
-      <p><b>Technologies:</b> C++, Data Structures</p>
-      <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
-        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
-      </a>
-      <!-- <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge"> -->
-      </a>
-    </td>
-    
-  </tr>
-
-
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="files/Report.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-      <h3>Student-Database-Management-System</h3>
-      <p><b>Technologies:</b> Technologies: C++, Vectors, Linked Lists, File I/O</p>
-      <a href="https://github.com/ItsAksharaRathore/Student-Database-Management-System" target="_blank">
         <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
       </a>
       <!-- <a href="https://github.com/ItsAksharaRathore/Student-Grade-Managment" target="_blank">
@@ -125,11 +156,12 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
     </td>
     
   </tr>
+  
   <tr>
     <td align="center" style="padding: 20px;">
       <img src="files/phone.png" alt="Student Grades Management" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
       <h3>Phone-Directory-Management-System</h3>
-      <p><b>Technologies:</b> Technologies: C++, Linked Lists, File I/O, CSV</p>
+      <p><b>Technologies:</b> C++, Linked Lists, File I/O, CSV</p>
       <a href="https://github.com/ItsAksharaRathore/Phone-Directory-Management-System" target="_blank">
         <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
       </a>
@@ -137,9 +169,21 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
         <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
       </a> -->
     </td>
-    
+    <td align="center" style="padding: 20px;">
+      <img src="files/todo.png" alt="To-Do List" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+      <h3>To-Do List Management</h3>
+      <p><b>Technologies:</b> C++, Data Structures</p>
+      <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+      </a>
+      <!-- <a href="https://github.com/ItsAksharaRathore/To-Do-List-Management-System" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge"> -->
+      </a>
+    </td>
     
   </tr>
+  
+  
 </table>
 </div>
 
