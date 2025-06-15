@@ -11,10 +11,12 @@
 
 I'm a passionate developer with a focus on **AI & Data Science** and **Full Stack Development**. Currently pursuing a **B.Tech** at **Madhav Institute of Technology & Science** and a **B.S in Data Science** at **IIT Madras**. I love building projects that solve real-world problems, and I’m continuously learning new technologies to enhance my skills.
 
+🔗 **Portfolio:** [🌐 akshararathore.vercel.app](https://akshararathore.vercel.app/)
 
-- 🚀 I aim to contribute to **open source** projects and pursue research in AI & Data Science
-- 💬 I have expertise in **Full Stack Development, AI, and Data Science**
-- 🌱 I am eager to learn **AR/VR technologies**
+- 🚀 I aim to contribute to **open source** projects and pursue research in AI & Data Science  
+- 💬 I have expertise in **Full Stack Development, AI, and Data Science**  
+- 🌱 I am eager to learn **App Development and ML/DL**
+
 
 ---
 
@@ -182,6 +184,20 @@ I'm a passionate developer with a focus on **AI & Data Science** and **Full Stac
     </td>
     
   </tr>
+  <tr>
+  <td align="center" style="padding: 20px;">
+    <img src="files/quizmaster.png" alt="Quiz Master" width="300" height="150" style="border-radius: 10px; transition: transform .2s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
+    <h3>Quiz Master Platform</h3>
+    <p><b>Technologies:</b> Flask, SQLite, HTML, CSS, Bootstrap, Jinja2</p>
+    <a href="https://github.com/ItsAksharaRathore/Quiz-Master" target="_blank">
+      <img src="https://img.shields.io/badge/View_Code-blue?style=for-the-badge">
+    </a>
+    <!-- <a href="https://quizmaster-demo-link" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge">
+    </a> -->
+  </td>
+</tr>
+
   
   
 </table>
